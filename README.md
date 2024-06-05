@@ -41,7 +41,6 @@ The point of this project was not to offer different calculations for other time
 
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
- ![CSS3](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ## 💻 IDE
 
