@@ -68,8 +68,10 @@ Use any browser. I prefer Chrome.
 
 ## 📷 Screenshots
 
-![add task]()
+![add a loan](https://github.com/kieran-woodrow/Loan-Calculator/blob/main/Assets/Screenshot%202024-06-05%20at%2007.35.54.png)
 
-![remove task]()
+![successful loan](https://github.com/kieran-woodrow/Loan-Calculator/blob/main/Assets/Screenshot%202024-06-05%20at%2007.36.10.png)
 
+![error management](https://github.com/kieran-woodrow/Loan-Calculator/blob/main/Assets/Screenshot%202024-06-05%20at%2007.36.57.png)
 
+![loader](https://github.com/kieran-woodrow/Loan-Calculator/blob/main/Assets/Screenshot%202024-06-05%20at%2007.37.20.png)
